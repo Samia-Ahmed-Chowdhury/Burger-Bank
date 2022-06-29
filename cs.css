@@ -685,7 +685,7 @@ font-weight: bold;}
     
 }
 .choose-op{
-    margin-left: 7rem;
+    margin-left: 3rem;
     animation: choose-op 6s ease infinite;
 }
 @keyframes choose-op {
